@@ -124,7 +124,7 @@ h2{
     color: #fff;
 }
 #contact{
-    background-image: url(/img/kontak-img.png);
+    background-image: url(./img/kontak-img.png);
     margin-top: 150px;
     padding: 148px 0 148px 0;
     background-size: cover;
